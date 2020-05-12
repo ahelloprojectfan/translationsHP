@@ -46,3 +46,9 @@ a:hover {
 .card h5{
   color:rgb(197, 196, 196);
 }
+#severimg{
+  width: 50px;
+}
+.inviteServer{
+  text-align: center;
+}
