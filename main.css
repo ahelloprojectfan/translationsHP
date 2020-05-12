@@ -1,0 +1,48 @@
+html{
+  font-family: 'Share Tech Mono', monospace;
+  font-size: 0.97em;
+}
+
+.video {
+  transition: height 0.5s, width 0.5s, visibility 0s, opacity 0.5s linear;
+}
+
+.video-show {
+  opacity: 1;
+  visibility: visible;
+  width: auto;
+  height: auto;
+}
+
+.video-hide {
+  visibility: hidden;
+  opacity: 0;
+  width: 0px;
+  height: 0px;
+}      
+
+.title, #loading {
+  text-align: center;
+}
+.title{
+  text-shadow: 1px 1px rgb(116, 114, 114);
+}
+
+video {
+  width: 100%;
+}
+
+a {
+  color: white;
+}
+
+a:hover {
+  color: #17a2b8;
+}
+
+.link {
+  margin: 0.5em;
+}
+.card h5{
+  color:rgb(197, 196, 196);
+}
