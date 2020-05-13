@@ -1,4 +1,3 @@
-
 const formElement = document.querySelector('form');
 const filterLinksElement = document.querySelector('.filter-links');
 const loadingElement = document.querySelector('#loading');
@@ -85,7 +84,8 @@ Torrent: <a target="_blank" href="https://aidoru-online.me/torrents-details.php?
 Translation: @Skoban <br>
 Timing: @Davidguy <br>
 Proofreading: @Neminia @QueenAgonna <br><br>
-YouTube: <a target="_blank" href="https://www.youtube.com/watch?v=FwOcIsl36uQ">https://www.youtube.com/watch?v=FwOcIsl36uQ</a> Dailymotion: https://www.dailymotion.com/video/x7s404t <br><br>
+YouTube: <a target="_blank" href="https://www.youtube.com/watch?v=FwOcIsl36uQ">https://www.youtube.com/watch?v=FwOcIsl36uQ</a> <br><br>
+Dailymotion: <a target="_blank" href="https://www.dailymotion.com/video/x7s404t">https://www.dailymotion.com/video/x7s404t</a> <br><br>
 Google Drive: <a target="_blank" href="https://drive.google.com/open?id=1cEKSyD28_qsbpxihZUYoqH2Ifrp-KZfl">https://drive.google.com/open?id=1cEKSyD28_qsbpxihZUYoqH2Ifrp-KZfl</a> <br>`
   },
   {
@@ -102,7 +102,7 @@ Google Drive: <a target="_blank" href="https://drive.google.com/open?id=1cEKSyD2
 
   },
   {
-   "id": "9",
+    "id": "9",
     "url": "https://i.imgur.com/PxhcyjW.jpg",
     "text": `<h5>Hello Pro no Oshigoto Challenge! 2 | Episode 2</h5> 
     Translation: @Amy @shelliana <br>
@@ -117,8 +117,8 @@ Google Drive: <a target="_blank" href="https://drive.google.com/open?id=1cEKSyD2
 
   },
   {
-    "id":"10",
-    "url":"https://i.imgur.com/qyquKi5.jpg",
+    "id": "10",
+    "url": "https://i.imgur.com/qyquKi5.jpg",
     "text": `<h5> Hello Pro no Oshigoto Challenge! 2 | Episode 3</h5>
     Translation: @Amy 🦒, @chanting-to-u, @fr0d0b0ls0n, Itos Atos <br>
     Timing: @mekia <br>
@@ -129,9 +129,9 @@ Google Drive: <a target="_blank" href="https://drive.google.com/open?id=1cEKSyD2
     softsub: <a target="_blank" href="https://drive.google.com/open?id=1LvSxshDFG7L9tef4LEAtNPa4y_09niA2">https://drive.google.com/open?id=1LvSxshDFG7L9tef4LEAtNPa4y_09niA2</a> <span hidden>angerme<span>`
   },
   {
-    "id":"11",
+    "id": "11",
     "url": "https://i.imgur.com/kpMPhSU.jpg",
-    "text":`<h5>Morning Musume'17 DVD Magazine Vol.98</h5> 
+    "text": `<h5>Morning Musume'17 DVD Magazine Vol.98</h5> 
     Translation, Timing & Typesetting: @Neminia <br> 
     Proofreading: @chanting-to-u <br>
     Encoding: @mekia <br><br>
@@ -143,8 +143,8 @@ Google Drive: <a target="_blank" href="https://drive.google.com/open?id=1cEKSyD2
     Torrent: <a target="_blank" href="https://aidoru-online.me/torrents-details.php?id=165509">https://aidoru-online.me/torrents-details.php?id=165509</a> <br><br>`
   },
   {
-    "id":"12",
-    "url":"https://i.imgur.com/NiEJN37.jpg",
+    "id": "12",
+    "url": "https://i.imgur.com/NiEJN37.jpg",
     "text": `<h5> Aware! Meisaku-kun Episodes 121 & 123 (feat. Satou Masaki) </h5>
     Translation & Typesetting: @shelliana  <br>
     Timing: @mekia <br> <br>
@@ -161,8 +161,8 @@ Google Drive: <a target="_blank" href="https://drive.google.com/open?id=1cEKSyD2
   },
   {
     "id": "13",
-    "url":"https://i.imgur.com/qHO3vzV.jpg",
-    "text":`<h5>tiny tiny #125 | Hello! Project Kenshuusei Corner - Yonemura Kirara</h5> 
+    "url": "https://i.imgur.com/qHO3vzV.jpg",
+    "text": `<h5>tiny tiny #125 | Hello! Project Kenshuusei Corner - Yonemura Kirara</h5> 
     Translation & Timing: @shelliana <br><br>
     Youtube: <a target="_blank" href="https://www.youtube.com/watch?v=Q6DwTe6ijRU">https://www.youtube.com/watch?v=Q6DwTe6ijRU</a> <br><br>
     Dailymotion: <a target="_blank" href="https://www.dailymotion.com/video/x7ta9yb">https://www.dailymotion.com/video/x7ta9yb</a> <br><br>
@@ -178,7 +178,33 @@ Timing & Typesetting: @Davidguy <br><br>
 Youtube: <a target="_blank" href="https://www.youtube.com/watch?v=-PYoDI3bTNs">https://www.youtube.com/watch?v=-PYoDI3bTNs</a> <br><br>
 softsub: <a target="_blank" href="https://drive.google.com/open?id=1Gr2jboe-bVCu6VNuvgIjcdyGg2i3NTYJ">https://drive.google.com/open?id=1Gr2jboe-bVCu6VNuvgIjcdyGg2i3NTYJ</a>`
   },
+  {
+    "id": "15",
+    "url": "https://i.imgur.com/j6EaVlO.jpg",
+    "text":`<h5>「Hello! History '20 」Hello! Project [ENG SUB]</h5><br>
+    Translated, subbed & timed: @kimaagure <br><br>
+    Youtube: <a target="_blank" href="https://www.youtube.com/watch?v=6h7zQVzC_gI">https://www.youtube.com/watch?v=6h7zQVzC_gI</a>`,
 
+  },{
+    "id":"16",
+    "url":"https://i.imgur.com/Jist4UI.jpg",
+    "text":`<h5>Start Line (short ver) - Kobushi Factory (こぶしファクトリー) [Eng SUB]</h5><br>
+  Translated, subbed & timed: @kimaagure <br><br>
+  Youtube <a target="_blank" href="https://www.youtube.com/watch?v=upyXxO9qrgE">https://www.youtube.com/watch?v=upyXxO9qrgE</a>`
+  },{
+    "id":"17",
+    "url":"https://i.imgur.com/Q2bjXkN.jpg",
+    "text":`<h5>[ENG SUB] ANGERME Murota Mizuki Graduation Speech & Solo</h5><br>
+    Translated, subbed & timed: @kimaagure <br><br>
+    Youtube <a  target="_blank" href="https://www.youtube.com/watch?v=eCLn8xNfbLY">https://www.youtube.com/watch?v=eCLn8xNfbLY</a>`
+  },
+  {
+    "id":"18",
+    "url":"https://i.imgur.com/or44RCH.jpg",
+    "text":`<h5>[ENG SUB] UpFront Group Remote Chorus Medley - "Love will Win" "It's okay to cry" "Don't give up"</h5><br>
+    Translated, subbed & timed: @kimaagure <br><br>
+    Youtube <a target="_blank" href="https://www.youtube.com/watch?v=9rInokjV9IQ">https://www.youtube.com/watch?v=9rInokjV9IQ</a>`
+  }
 
 ];
 allVideos = allVideos.reverse();
