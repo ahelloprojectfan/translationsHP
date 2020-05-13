@@ -249,7 +249,7 @@ if (allVideos.length > 0) {
 
 
 function showVideos(videos) {
-  console.log(videos)
+ 
   localStorage.videos = JSON.stringify(videos);
   allVideos = videos;
   loadingElement.style.display = 'none';
