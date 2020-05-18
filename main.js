@@ -204,6 +204,26 @@ softsub: <a target="_blank" href="https://drive.google.com/open?id=1Gr2jboe-bVCu
     "text":`<h5>[ENG SUB] UpFront Group Remote Chorus Medley - "Love will Win" "It's okay to cry" "Don't give up"</h5><br>
     Translated, subbed & timed: @kimaagure <br><br>
     Youtube <a target="_blank" href="https://www.youtube.com/watch?v=9rInokjV9IQ">https://www.youtube.com/watch?v=9rInokjV9IQ</a>`
+  },
+  {
+    "id":"19",
+    "url":"https://i.imgur.com/Z7M8K6n.jpg",
+    "text":`<h5>(engsub) anime’s director talking about maachan and her character モーニング娘。佐藤優樹 あはれ！名作くん</h5><br>
+
+    Uploaded: maachanmarkeu 99 <br> <br>
+    
+    Youtube: <a target="_blank" href="https://www.youtube.com/watch?v=rvDdE4hehKw">https://www.youtube.com/watch?v=rvDdE4hehKw</a> <span hidden>Sato</span>`
+
+  },
+  {
+    "id":"20",
+    "url":"https://i.imgur.com/hjrtvgZ.jpg",
+    "text":`<h5>(Cooking classes with Sato Masaki and Makino Maria (with English subs)</h5><br>
+
+    Uploaded:  Translator Guy <br> <br>
+    
+    Youtube: <a target="_blank" href="https://www.youtube.com/watch?v=22FhZZccvhA">https://www.youtube.com/watch?v=22FhZZccvhA</a>`
+
   }
 
 ];
@@ -215,7 +235,8 @@ const filterLinks = [
   "BEYOOOOONDS",
   "Kenshuusei",
   "ANGERME",
-  "Morning Musume"
+  "Morning Musume",
+  "Sato"
 ];
 
 filterLinks.forEach(link => {
