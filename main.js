@@ -225,7 +225,24 @@ softsub: <a target="_blank" href="https://drive.google.com/open?id=1Gr2jboe-bVCu
     Youtube: <a target="_blank" href="https://www.youtube.com/watch?v=22FhZZccvhA">https://www.youtube.com/watch?v=22FhZZccvhA</a>`
 
   }
+  ,
+  {
+    "id":"21",
+    "url":"https://i.imgur.com/y2umx4n.jpg",
+    "text":`
+    <h5>[ENG SUB] Morning Musume ’20 WEB Talk PART 1 
+      
+    </h5><br> 
+    <h6>Members talk after not meeting awhile & celebrate Maa-chan’s 21st birthday</h6><br>
+    
+    Translated, subbed & timed: @kimaagure <br> <br>
+    
+    Youtube: <a target="_blank" href="https://www.youtube.com/watch?v=Q2ZLueFu8Gg">https://www.youtube.com/watch?v=Q2ZLueFu8Gg</a> <br><br>
+    Dailymotion <a target="_blank" href="https://www.dailymotion.com/video/x7u2zc7">https://www.dailymotion.com/video/x7u2zc7</a>
+    `
+  }
 
+  
 ];
 allVideos = allVideos.reverse();
 let videoElementsById = {};
