@@ -238,7 +238,7 @@ softsub: <a target="_blank" href="https://drive.google.com/open?id=1Gr2jboe-bVCu
     Translated, subbed & timed: @kimaagure <br> <br>
     
     Youtube: <a target="_blank" href="https://www.youtube.com/watch?v=Q2ZLueFu8Gg">https://www.youtube.com/watch?v=Q2ZLueFu8Gg</a> <br><br>
-    Dailymotion <a target="_blank" href="https://www.dailymotion.com/video/x7u2zc7">https://www.dailymotion.com/video/x7u2zc7</a>
+    Dailymotion: <a target="_blank" href="https://www.dailymotion.com/video/x7u2zc7">https://www.dailymotion.com/video/x7u2zc7</a>
     `
   }
 
