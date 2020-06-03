@@ -49,6 +49,15 @@ a:hover {
 #severimg{
   width: 50px;
 }
+
 .inviteServer{
   text-align: center;
+}
+
+a.link{
+  display: inline-block;
+}
+
+.video.video-show.col-xs-1.col-sm-6.col-md-4{
+  margin-bottom: 20px;
 }
