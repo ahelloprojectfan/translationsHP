@@ -242,6 +242,23 @@ softsub: <a target="_blank" href="https://drive.google.com/open?id=1Gr2jboe-bVCu
     Dailymotion: <a target="_blank" href="https://www.dailymotion.com/video/x7u2zc7">https://www.dailymotion.com/video/x7u2zc7</a>
     `
   }
+  ,
+  {
+    "id":"22",
+    "url":"https://i.imgur.com/SBKL2V2.jpg",
+    "text":`<h5>Hello Pro no Oshigoto Challenge! 2 | Episode 4</h5>
+    <br> <br>
+    
+    Translation: @Amy, @fr0d0b0ls0n, Itos Atos<br>
+    Timing: @mekia<br>
+    Typesetting: @Davidguy<br><br>
+    
+    Dailymotion: <a target="_blank" href="https://www.dailymotion.com/video/x7ufle0">https://www.dailymotion.com/video/x7ufle0</a> <br><br>
+    Google Drive <a target="_blank" href="https://drive.google.com/file/d/1GM8O6a8t8apOz75sYcDbOlq0kt-KPq84/view?usp=sharing">https://drive.google.com/file/d/1GM8O6a8t8apOz75sYcDbOlq0kt-KPq84/view?usp=sharing</a><br><br>
+    softsub <a target="_blank" href="https://drive.google.com/file/d/1UdMXokHpR9vXHMFqR76evUNgGuH9tq9x/view?usp=sharing"> https://drive.google.com/file/d/1UdMXokHpR9vXHMFqR76evUNgGuH9tq9x/view?usp=sharing</a>
+    <span hidden>angerme<span>
+    `
+  }
 
   
 ];
