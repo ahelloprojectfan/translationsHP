@@ -254,11 +254,31 @@ softsub: <a target="_blank" href="https://drive.google.com/open?id=1Gr2jboe-bVCu
     Typesetting: @Davidguy<br><br>
     
     Dailymotion: <a target="_blank" href="https://www.dailymotion.com/video/x7ufle0">https://www.dailymotion.com/video/x7ufle0</a> <br><br>
-    Google Drive <a target="_blank" href="https://drive.google.com/file/d/1GM8O6a8t8apOz75sYcDbOlq0kt-KPq84/view?usp=sharing">https://drive.google.com/file/d/1GM8O6a8t8apOz75sYcDbOlq0kt-KPq84/view?usp=sharing</a><br><br>
-    softsub <a target="_blank" href="https://drive.google.com/file/d/1UdMXokHpR9vXHMFqR76evUNgGuH9tq9x/view?usp=sharing"> https://drive.google.com/file/d/1UdMXokHpR9vXHMFqR76evUNgGuH9tq9x/view?usp=sharing</a>
+    Google Drive: <a target="_blank" href="https://drive.google.com/file/d/1GM8O6a8t8apOz75sYcDbOlq0kt-KPq84/view?usp=sharing">https://drive.google.com/file/d/1GM8O6a8t8apOz75sYcDbOlq0kt-KPq84/view?usp=sharing</a><br><br>
+    softsub: <a target="_blank" href="https://drive.google.com/file/d/1UdMXokHpR9vXHMFqR76evUNgGuH9tq9x/view?usp=sharing"> https://drive.google.com/file/d/1UdMXokHpR9vXHMFqR76evUNgGuH9tq9x/view?usp=sharing</a>
     <span hidden>angerme<span>
     `
   }
+  ,
+  {
+    "id":"23",
+    "url":"https://i.imgur.com/zqVGrZH.jpg",
+    "text":`<h5>Hello Pro ONE x ONE | Episode 6 - Inaba Manaka & Morito Chisaki</h5>
+    <br> <br>
+    
+    Translation: @Skoban , @fr0d0b0ls0n , Itos Atos, @Davidguy <br> 
+    Timing: @Davidguy, @Di <br>
+    Typesetting: @Davidguy <br><br>
+    
+    Youtube: <a target="_blank" href="https://www.youtube.com/watch?v=I4rTMcB53Wc">https://www.youtube.com/watch?v=I4rTMcB53Wc</a> <br><br>
+    Dailymotion: <a target="_blank" href="https://www.dailymotion.com/video/x7ul8f4">https://www.dailymotion.com/video/x7ul8f4</a> <br><br>
+    Google Drive: <a target="_blank" href="https://drive.google.com/file/d/1Yi41UdzrM-n7tTH3YoTBZnVFLW0FNxGU/view?usp=sharing">https://drive.google.com/file/d/1Yi41UdzrM-n7tTH3YoTBZnVFLW0FNxGU/view?usp=sharing</a><br><br>
+    softsub: <a target="_blank" href="https://drive.google.com/file/d/1mzG-N5D3dL8xiQFBHvqlo5QV4yuEXR26/view?usp=sharing
+    ">https://drive.google.com/file/d/1mzG-N5D3dL8xiQFBHvqlo5QV4yuEXR26/view?usp=sharing</a>
+    <span hidden>Morito Chisaki, Inaba Manaka<span>
+    `
+  }
+
 
   
 ];
@@ -271,7 +291,8 @@ const filterLinks = [
   "Kenshuusei",
   "ANGERME",
   "Morning Musume",
-  "Sato"
+  "Sato",
+  "ONE x ONE"
 ];
 
 filterLinks.forEach(link => {
