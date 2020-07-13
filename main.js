@@ -286,7 +286,8 @@ softsub: <a target="_blank" href="https://drive.google.com/open?id=1Gr2jboe-bVCu
     `<h5>[ENG SUB] Morning Musume ’20 WEB Talk PART 2 </h5><br><br>
 
 
-    Twitter: @kimaagure <br><br>
+    Translated, subbed & timed: @kimaagure <br> <br>
+    Video rendering: @pOuNd66 <br> <br>
     
     
     YouTube: <a target="_blank" href="https://www.youtube.com/watch?v=3L_tFIzRzyk">https://www.youtube.com/watch?v=3L_tFIzRzyk</a>
