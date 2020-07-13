@@ -278,7 +278,71 @@ softsub: <a target="_blank" href="https://drive.google.com/open?id=1Gr2jboe-bVCu
     <span hidden>Morito Chisaki, Inaba Manaka<span>
     `
   }
+  ,
+  {
+    "id":"24",
+    "url":"https://i.imgur.com/26aSnTk.jpg",
+    "text":
+    `<h5>[ENG SUB] Morning Musume ’20 WEB Talk PART 2 </h5><br><br>
 
+
+    Twitter: @kimaagure <br><br>
+    
+    
+    YouTube: <a target="_blank" href="https://www.youtube.com/watch?v=3L_tFIzRzyk">https://www.youtube.com/watch?v=3L_tFIzRzyk</a>
+    
+    <br><br>Dailymotion: <a target="_blank" href="https://www.dailymotion.com/video/x7upgem">https://www.dailymotion.com/video/x7upgem</a>
+    <span hidden><span>`
+  }
+   ,
+  {
+    "id":"25",
+    "url":"https://i.imgur.com/uguKVHJ.jpg",
+    "text":
+    `<h5>Hello! Project Station Special Plan #12 | Yamazaki Yuhane x Shimakura Rika Phone Call</h5><br><br>
+
+
+    Translation: @Skoban 
+    
+    <br>Timing: @Davidguy 
+    
+    <br>Typesetting: @Davidguy <br><br>
+    
+    
+    YouTube: <a target="_blank" href="https://www.youtube.com/watch?v=6gyCJvU63nw">https://www.youtube.com/watch?v=6gyCJvU63nw</a>
+    
+    <br><br>Dailymotion: <a target="_blank" href="https://www.dailymotion.com/video/x7uypwj">https://www.dailymotion.com/video/x7uypwj</a>
+    
+    <br><br>Google Drive: <a target="_blank" href="https://drive.google.com/file/d/1KPLwRRwoKYot48vyVpB4r-o_HeX1IkrG/view?usp=sharing">https://drive.google.com/file/d/1KPLwRRwoKYot48vyVpB4r-o_HeX1IkrG/view?usp=sharing</a>
+    
+    <br><br>softsub: <a target="_blank" href="https://drive.google.com/file/d/1_fTOLg6SG8SssZAhGaUihAZ1WrIApGm8/view?usp=sharing">https://drive.google.com/file/d/1_fTOLg6SG8SssZAhGaUihAZ1WrIApGm8/view?usp=sharing</a>
+    <span hidden>beyooooonds<span> 
+    `
+  }
+  ,
+  {
+    "id":"26",
+    "url":"https://i.imgur.com/f8xxCnq.jpg",
+    "text":
+    `<h5>Hello! Project Special Plan #12 | Yamazaki Yuhane tiny play back "Magic of Love (J=J 2015 Ver.)"</h5><br><br>
+
+
+    Translation: @Skoban 
+    
+    <br>Timing: @Davidguy 
+    
+    <br>Typesetting: @Davidguy <br><br>
+    
+    
+    YouTube: <a target="_blank" href="https://www.youtube.com/watch?v=SrqA90grKJo">https://www.youtube.com/watch?v=SrqA90grKJo</a>
+    
+    <br><br>Dailymotion: <a target="_blank" href="https://www.dailymotion.com/video/x7uyxsx">https://www.dailymotion.com/video/x7uyxsx</a>
+    
+    <br><br>Google Drive: <a target="_blank" href="https://drive.google.com/file/d/1PwZBhjO3dysMarxaaCRabH7js3SXEakI/view?usp=sharing">https://drive.google.com/file/d/1PwZBhjO3dysMarxaaCRabH7js3SXEakI/view?usp=sharing</a>
+    
+    <br><br>softsub: <a target="_blank" href="https://drive.google.com/file/d/1iCH16QsdR8V78d8M9U6pljAOq5Ce73Pw/view?usp=sharing">https://drive.google.com/file/d/1iCH16QsdR8V78d8M9U6pljAOq5Ce73Pw/view?usp=sharing</a>
+    <span hidden>beyooooonds<span>`
+  }
 
   
 ];
