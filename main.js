@@ -344,6 +344,31 @@ softsub: <a target="_blank" href="https://drive.google.com/open?id=1Gr2jboe-bVCu
     <br><br>softsub: <a target="_blank" href="https://drive.google.com/file/d/1iCH16QsdR8V78d8M9U6pljAOq5Ce73Pw/view?usp=sharing">https://drive.google.com/file/d/1iCH16QsdR8V78d8M9U6pljAOq5Ce73Pw/view?usp=sharing</a>
     <span hidden>beyooooonds<span>`
   }
+    ,
+  {
+    "id":"27",
+    "url":"https://i.imgur.com/8LB6P9u.jpg",
+    "text":
+    `<h5>Hello Pro ONE x ONE | Episode 10 - Suzuki Airi & Ishida Ayumi</h5><br><br>
+
+
+    Translation: @Neminia, @chanting-to-u, Katy Kaga, @QueenAgonna, @Davidguy 
+
+    <br>Timing: @mekia 
+
+    <br>Typesetting: @Neminia<br><br>
+
+
+    YouTube: <a target="_blank" href="https://www.youtube.com/watch?v=Jxxf5EhpjXw">https://www.youtube.com/watch?v=Jxxf5EhpjXw</a>
+
+    <br><br>Dailymotion: <a target="_blank" href="https://www.dailymotion.com/video/x7uzutn">https://www.dailymotion.com/video/x7uzutn</a>
+
+    <br><br>Google Drive: <a target="_blank" href="https://drive.google.com/file/d/1b11av30N0bV7UzNA1jZhA3Eij2vkCOeS/view?usp=sharing">https://drive.google.com/file/d/1b11av30N0bV7UzNA1jZhA3Eij2vkCOeS/view?usp=sharing</a>
+
+    <br><br>softsub: <a target="_blank" href="https://drive.google.com/file/d/1B8t9AEXgWCSa1ViuaBAsBza_dOqQ9ga6/view?usp=sharing">https://drive.google.com/file/d/1B8t9AEXgWCSa1ViuaBAsBza_dOqQ9ga6/view?usp=sharing</a>
+    <span hidden><span>`
+  }
+  
 
   
 ];
