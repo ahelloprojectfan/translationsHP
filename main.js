@@ -368,6 +368,29 @@ softsub: <a target="_blank" href="https://drive.google.com/open?id=1Gr2jboe-bVCu
     <br><br>softsub: <a target="_blank" href="https://drive.google.com/file/d/1B8t9AEXgWCSa1ViuaBAsBza_dOqQ9ga6/view?usp=sharing">https://drive.google.com/file/d/1B8t9AEXgWCSa1ViuaBAsBza_dOqQ9ga6/view?usp=sharing</a>
     <span hidden><span>`
   }
+   ,
+  {
+    "id":"28",
+    "url":"https://i.imgur.com/vzTQW33.jpg",
+    "text":
+    `<h5>Shinseiki Music (03/30/2020) | Juice=Juice</h5><br><br>
+
+      Translation @Skoban 
+
+      <br>Timing: @mekia 
+
+      <br>Typesetting: @Davidguy <br><br>
+
+
+      YouTube: <a target="_blank" href="https://www.youtube.com/watch?v=jTyJpqKjML4">https://www.youtube.com/watch?v=jTyJpqKjML4</a>
+
+      <br><br>Dailymotion: <a target="_blank" href="https://www.dailymotion.com/video/x7v6gok">https://www.dailymotion.com/video/x7v6gok</a>
+
+      <br><br>Google Drive: <a target="_blank" href="https://drive.google.com/file/d/14Xqd0aUoQk4DSN3pZV0zROCyvQqp_77J/view?usp=sharing">https://drive.google.com/file/d/14Xqd0aUoQk4DSN3pZV0zROCyvQqp_77J/view?usp=sharing</a>
+
+      <br><br>softsub: <a target="_blank" href="https://drive.google.com/file/d/1qgWrKQ4i1dfHYNorP_092rjz1xs9rz9P/view?usp=sharing">https://drive.google.com/file/d/1qgWrKQ4i1dfHYNorP_092rjz1xs9rz9P/view?usp=sharing</a>
+      <span hidden><span>`
+  }
   
 
   
